@@ -1,0 +1,171 @@
+body {
+  text-align: center;
+  background-color: #E8F6EF;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+}
+
+a{
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #219F94;
+}
+
+h1 {
+  color: #202040;
+  font-family: 'Sacramento', cursive;
+  font-size: 2rem;
+  padding-top: 50px;
+}
+
+h2 {
+  color: #11052C;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #577BC1
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #8787A3;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto 50px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.top-container {
+  position: relative;
+  background-color: #B5EAEA;
+  padding-top: 200px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.middle-container {
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+.mountain {
+  padding-top: 100px;
+  left: 100px;
+  right: 100px;
+}
+
+.c1 {
+  position: absolute;
+  right: 10%;
+  top: 50px;
+  height: 175px;
+  width: 250px;
+}
+
+.c2 {
+  position: absolute;
+  left: 15%;
+  height: 175px;
+  width: 250px
+}
+
+.LAST {
+  font-family: 'Sacramento', cursive;
+}
+
+.footer-link {
+  color: #6C5B7C
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+
+.HELLO {
+  color: #577BC1
+}
+
+.nft-img {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.blockchain-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cryptocurrency-img {
+  float: left;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.Investing-img {
+  float: right;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.nft-collector-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  margin: 25px auto 25px auto;
+  background-color: #CDF0EA;
+  padding: 50px 0 0;
+  margin-bottom: 0;
+}
+
+.copy-right{
+  padding: 20px 0;
+  font-size: 14px;
+  font-family: 'Sacramento', cursive;
+}
+
+.btn{
+  background: #98ACF8;
+  background-image: -webkit-linear-gradient(top, #98ACF8, #DA9FF9);
+  background-image: -moz-linear-gradient(top, #98ACF8, #DA9FF9);
+  background-image: -ms-linear-gradient(top, #98ACF8, #DA9FF9);
+  background-image: -o-linear-gradient(top, #98ACF8, #DA9FF9);
+  background-image: linear-gradient(to bottom, #98ACF8, #DA9FF9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover{
+  background: #BFA2DB;
+  background-image: -webkit-linear-gradient(top, #BFA2DB, #B980F0);
+  background-image: -moz-linear-gradient(top, #BFA2DB, #B980F0);
+  background-image: -ms-linear-gradient(top, #BFA2DB, #B980F0);
+  background-image: -o-linear-gradient(top, #BFA2DB, #B980F0);
+  background-image: linear-gradient(to bottom, #BFA2DB, #B980F0);
+  text-decoration: none;
+}
